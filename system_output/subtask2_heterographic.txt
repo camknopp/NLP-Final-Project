@@ -126,7 +126,7 @@ het_222 het_222_8
 het_223 het_223_8
 het_227 het_227_3
 het_228 het_228_11
-het_229 het_229_3
+het_229 het_229_2
 het_231 het_231_2
 het_234 het_234_9
 het_239 het_239_3

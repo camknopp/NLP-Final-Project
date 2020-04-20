@@ -343,11 +343,13 @@ hom_760 hom_760_11
 hom_762 hom_762_7
 hom_763 hom_763_9
 hom_764 hom_764_2
+hom_767 hom_767_13
 hom_768 hom_768_8
 hom_769 hom_769_8
 hom_771 hom_771_2
 hom_775 hom_775_5
 hom_779 hom_779_5
+hom_783 hom_783_14
 hom_785 hom_785_16
 hom_787 hom_787_59
 hom_788 hom_788_6
@@ -616,7 +618,6 @@ hom_1504 hom_1504_10
 hom_1510 hom_1510_4
 hom_1513 hom_1513_6
 hom_1514 hom_1514_6
-hom_783 hom_783_14
 hom_1526 hom_1526_9
 hom_1527 hom_1527_11
 hom_1531 hom_1531_9
