@@ -13,7 +13,7 @@ hom_16_13 plant%2:31:00:: handler%1:18:00::
 hom_18_8 square%1:25:00:: geometry%1:09:00::
 hom_19_3 dangerous%5:00:00:critical:03 situation%1:04:00::
 hom_20_17 wall_socket%1:06:00:: paint_a_picture%2:32:00::
-hom_21_9 absorb%2:35:00:: creative_person%1:18:00::
+hom_21_9 absorb%2:35:00:: draw%2:29:00::
 hom_22_15 take_a_hit%2:34:12:: disperse%2:35:00::
 hom_23_7 combustion%1:22:00:: question%2:32:02::
 hom_26_15 go%1:28:00:: disaster%1:04:00::
@@ -52,7 +52,7 @@ hom_80_5 spurt%2:38:01:: whale%2:33:00::
 hom_82_6 makeover%1:04:01:: william_ashley_sunday%1:18:00::
 hom_83_4 retort%2:32:00:: tom_turkey%1:05:00::
 hom_85_15 stand%2:42:04:: slip%2:31:00::
-hom_86_20 record%2:32:01:: record%2:31:00::
+hom_86_20 record%2:32:01:: write%2:36:10::
 hom_87_13 tap%1:04:00:: answer%2:31:05::
 hom_88_11 match%1:11:00:: held%3:44:00::
 hom_90_3 frisson%1:12:00:: blaze%1:04:00::
@@ -99,7 +99,7 @@ hom_159_21 fly%2:30:01:: quick%4:02:00::
 hom_160_9 mean%2:32:01:: die%2:30:02::
 hom_164_12 write_out%2:32:00:: knife%1:25:00::
 hom_165_13 steal%1:04:00:: player%1:18:03::
-hom_169_8 right%4:02:09:: die%2:30:02::
+hom_169_8 right%4:02:09:: never%4:02:01::
 hom_170_23 stagecoach%1:06:00:: door%1:06:03::
 hom_172_10 vein%2:36:00:: vein%2:36:00::
 hom_173_8 tender%2:30:00:: mow_down%2:30:00::
@@ -269,7 +269,7 @@ hom_447_29 snapshot%1:06:00:: shoot%2:32:00::
 hom_449_17 calf%1:05:01:: together%4:02:05::
 hom_451_17 sag%2:38:00:: away%4:02:02::
 hom_452_8 ruin%2:30:00:: ruin%2:30:00::
-hom_454_11 cabinet%1:06:01:: die%2:30:02::
+hom_454_11 cabinet%1:06:01:: never%4:02:01::
 hom_457_12 gloat%2:32:00:: turdus_merula%1:05:00::
 hom_463_8 ache%2:37:06:: away%4:02:02::
 hom_464_10 iron%1:27:00:: tool%2:36:00::
@@ -305,7 +305,7 @@ hom_514_10 tracing%1:06:00:: trace%2:31:04::
 hom_516_10 charge%2:30:00:: assault_and_battery%1:04:00::
 hom_520_9 handle%1:06:00:: spellbind%2:37:00::
 hom_522_17 file%2:32:02:: nail%2:33:00::
-hom_524_9 course%1:04:01:: die%2:30:02::
+hom_524_9 course%1:04:01:: separate%2:31:00::
 hom_525_6 ostentation%1:10:00:: invent%2:36:01::
 hom_526_10 blend%2:30:00:: unnoticed%3:00:00::
 hom_531_12 comb%2:35:00:: van%1:06:00::
@@ -331,7 +331,7 @@ hom_568_8 sake%1:07:00:: bring_forth%2:29:00::
 hom_569_1 ability%1:09:00:: especially%4:02:01::
 hom_570_8 psychiatrist%1:18:00:: away%4:02:02::
 hom_571_10 support%2:41:00:: needs%4:02:00::
-hom_573_7 disappear%2:30:00:: die%2:30:02::
+hom_573_7 disappear%2:30:00:: thaumaturgist%1:18:00::
 hom_574_11 joining%1:04:00:: twin%2:29:00::
 hom_575_11 charge%2:30:00:: tope%2:34:00::
 hom_578_14 flash%2:30:04:: sales_agreement%1:10:00::
@@ -425,7 +425,7 @@ hom_718_10 tip%2:40:00:: waiter%1:18:01::
 hom_723_13 workplace%1:06:00:: separate%2:31:00::
 hom_726_15 pelvis%1:08:00:: orthopedical%3:01:00::
 hom_727_9 stage%1:10:00:: throw_up%2:29:00::
-hom_728_9 pound%1:06:00:: bad%4:02:03::
+hom_728_9 pound%1:06:00:: track%2:38:00::
 hom_729_17 mope%2:38:00:: around%4:02:02::
 hom_732_15 inure%2:30:00:: felonious%5:00:00:illegal:00
 hom_735_3 wave%2:29:00:: louis_victor_de_broglie%1:18:00::
@@ -437,12 +437,12 @@ hom_742_11 fifth_wheel%1:07:00:: downsize%2:30:00::
 hom_745_14 weave%2:38:00:: revel%2:34:00::
 hom_748_7 prior%1:18:00:: commendation%1:10:01::
 hom_749_11 perspective%1:07:00:: linear_perspective%1:07:00::
-hom_751_8 rattle%2:39:00:: rattled%5:00:00:discomposed:00
+hom_751_8 rattle%2:39:00:: tom_turkey%1:05:00::
 hom_753_17 underhand%3:00:00:: ball%2:35:00::
-hom_758_11 wimp%1:18:00:: deep-fried%5:00:00:cooked:00
+hom_758_11 wimp%1:18:00:: yellow-bellied%5:00:00:cowardly:00
 hom_759_7 take%2:33:08:: die%2:30:02::
 hom_762_7 vantage_point%1:15:00:: viewpoint%1:15:00::
-hom_763_9 stadium%1:06:00:: bowl%2:33:00::
+hom_763_9 stadium%1:06:00:: cricketer%1:18:00::
 hom_764_14 crane%1:06:00:: indulge%2:41:00::
 hom_765_11 overall%5:00:00:gross:00 problem%1:09:00::
 hom_767_13 smart%5:00:00:fast:01 smart%5:00:00:automatic:00
@@ -488,7 +488,7 @@ hom_843_15 testis%1:08:00:: away%4:02:02::
 hom_845_9 veracious%5:00:00:accurate:00 shoe%2:29:00::
 hom_847_26 shed%2:35:01:: drop%2:29:00::
 hom_848_14 plate%2:35:00:: lunch%2:34:01::
-hom_851_8 swing%2:35:00:: die%2:30:02::
+hom_851_8 swing%2:35:00:: swept%3:00:00::
 hom_852_12 touch%2:35:00:: discourse%1:10:00::
 hom_854_10 run%2:42:04:: meet%5:00:00:just:00
 hom_855_5 change%2:30:03:: meter%2:35:00::
@@ -526,13 +526,13 @@ hom_916_8 footing%1:24:00:: found%2:31:00::
 hom_917_15 open_fire%2:33:00:: blacksmith%1:18:00::
 hom_918_17 dry%2:30:00:: said%5:00:00:same:02
 hom_920_11 explosion%1:11:00:: convening%1:04:00::
-hom_923_6 publish%2:32:00:: time%2:30:06::
+hom_923_6 publish%2:32:00:: cut%2:32:00::
 hom_924_10 cut%2:35:13:: lose%2:30:03::
 hom_925_10 dock%2:35:00:: show%2:33:00::
 hom_929_13 amiss%5:00:00:malfunctioning:00 wrong%5:00:00:malfunctioning:00
 hom_934_10 spirit%2:30:00:: inspirit%2:30:00::
 hom_937_22 complex%1:12:00:: residential%3:01:00::
-hom_938_8 split%1:15:00:: die%2:30:02::
+hom_938_8 split%1:15:00:: lumber_jacket%1:06:00::
 hom_939_6 space%2:38:00:: welcome%3:00:00::
 hom_941_28 change%1:21:01:: ring%2:32:00::
 hom_942_10 throw%1:11:00:: die%2:30:02::
@@ -556,7 +556,7 @@ hom_973_7 beady%5:00:00:bright:00 eyeball%2:39:00::
 hom_974_8 downhill%4:02:01:: retired%5:00:00:inactive:08
 hom_976_13 wrench%1:26:00:: together%4:02:05::
 hom_984_21 lock%1:06:01:: key%2:30:00::
-hom_985_11 signboard%1:06:00:: interpretive_program%1:10:00::
+hom_985_11 signboard%1:06:00:: die%2:30:02::
 hom_987_10 calf%1:05:01:: calf%1:05:01::
 hom_990_11 plant%2:31:00:: come%2:31:13::
 hom_992_21 poacher%1:06:00:: sea_poker%1:05:00::
@@ -577,7 +577,7 @@ hom_1016_18 prison_term%1:28:00:: punctuation%1:04:00::
 hom_1017_15 picket%1:06:00:: constructor%1:18:00::
 hom_1018_7 turn%2:42:13:: sleeve%1:06:02::
 hom_1020_7 absorb%2:35:00:: sponge%2:35:03::
-hom_1024_12 joining%1:04:00:: die%2:30:02::
+hom_1024_12 joining%1:04:00:: connexion%1:04:00::
 hom_1025_8 try%2:30:00:: liquified%3:00:04::
 hom_1028_20 take%2:38:05:: student%1:18:01::
 hom_1030_8 state_of_matter%1:26:00:: flow%2:29:00::
@@ -597,7 +597,7 @@ hom_1049_7 legend%1:10:01:: full%4:02:01::
 hom_1050_8 love%1:23:00:: mean%2:31:05::
 hom_1052_18 snip%2:35:00:: whip%2:32:00::
 hom_1053_2 total%2:42:00:: ready%5:00:00:intelligent:00
-hom_1054_4 turf%2:35:00:: turf%2:35:00::
+hom_1054_4 turf%2:35:00:: lawn%1:15:00::
 hom_1056_43 attend%2:41:12:: toronto%1:15:00::
 hom_1057_9 pine%1:20:02:: sawbones%1:18:00::
 hom_1058_9 rescue%1:04:00:: perfect%5:00:00:exact:00
@@ -725,14 +725,14 @@ hom_1300_10 sentence%2:32:00:: doom%2:32:00::
 hom_1301_13 shock%1:04:01:: jest%2:29:00::
 hom_1302_14 stick%2:35:03:: needle%2:35:00::
 hom_1304_11 perpetration%1:04:00:: die%2:30:02::
-hom_1305_8 sake%1:07:00:: die%2:30:02::
+hom_1305_8 sake%1:07:00:: banker%1:18:01::
 hom_1308_8 change%1:06:01:: change%2:30:06::
 hom_1309_25 fly%1:06:00:: tailor-make%2:36:00::
 hom_1310_8 skeleton%1:06:00:: necropolis%1:15:00::
 hom_1311_10 rock_'n'_roll%1:10:00:: around%4:02:02::
 hom_1312_6 right%4:02:09:: viagra%1:06:00::
 hom_1314_14 unwrap%2:32:00:: acne%1:26:00::
-hom_1315_7 recognition%1:10:00:: credit%2:31:00::
+hom_1315_7 recognition%1:10:00:: cash_in%2:40:00::
 hom_1317_15 train%2:31:01:: memory%1:09:03::
 hom_1320_7 file%2:32:00:: nail%2:33:00::
 hom_1323_9 sagacity%1:09:00:: discernment%1:09:00::
@@ -838,13 +838,13 @@ hom_1514_5 deep%3:00:01:: subject%5:00:00:affected:00
 hom_1516_14 travel%2:38:00:: touched%3:00:01::
 hom_1517_14 nick%2:35:00:: natal_day%1:28:00::
 hom_1518_18 fill%2:30:02:: dental_practitioner%1:18:00::
-hom_1519_10 touch%2:35:00:: touch%2:30:01::
+hom_1519_10 touch%2:35:00:: die%2:30:02::
 hom_1520_7 cinch%1:04:01:: fan%2:35:00::
 hom_1521_9 suspend%2:41:00:: school%2:38:00::
 hom_1523_14 key%2:30:00:: door%1:06:03::
 hom_1527_18 gather%2:35:00:: evasion%1:04:00::
 hom_1532_14 rich_people%1:14:00:: cake%2:35:01::
-hom_1534_17 pump%2:32:00:: wired%5:00:00:tense:03
+hom_1534_17 pump%2:32:00:: store%2:40:02::
 hom_1535_10 flawlessly%4:02:00:: dip%2:35:12::
 hom_1537_9 odds%1:24:00:: indicate%2:32:02::
 hom_1538_6 umbrella%5:00:00:comprehensive:00 organisation%1:04:02::
@@ -923,7 +923,7 @@ hom_1675_10 rotation%1:11:00:: gyration%1:11:00::
 hom_1676_12 chime%2:39:00:: noontide%1:28:00::
 hom_1677_13 behind%4:02:01:: grinder%1:06:00::
 hom_1678_1 tick%2:39:01:: want%2:42:01::
-hom_1680_9 kernel%1:09:00:: heart%1:06:00::
+hom_1680_9 kernel%1:09:00:: die%2:30:02::
 hom_1682_14 light%1:10:00:: bulb%1:08:01::
 hom_1685_10 trip%2:36:00:: sparkle%2:43:02::
 hom_1686_7 charge%2:40:01:: bull%2:30:00::
@@ -944,7 +944,7 @@ hom_1708_3 sag%2:38:00:: flag%2:30:01::
 hom_1709_5 relative%1:05:00:: thing%1:03:00::
 hom_1711_7 hum%2:42:00:: die%2:30:02::
 hom_1713_13 attractive%3:00:01:: steam%2:30:00::
-hom_1714_8 change%2:30:00:: die%2:30:02::
+hom_1714_8 change%2:30:00:: cashier%2:41:00::
 hom_1715_7 raid%2:41:00:: stony-broke%5:00:00:poor:00
 hom_1717_6 wee%5:00:00:early:00 scotchman%1:18:00::
 hom_1719_13 unleash%2:35:01:: potential%5:00:00:prospective:00
@@ -1024,7 +1024,7 @@ hom_1838_17 delightful%5:00:00:pleasing:00 said%5:00:00:same:02
 hom_1840_16 necktie%1:06:00:: said%5:00:00:same:02
 hom_1843_12 come%2:42:11:: impotency%1:26:00::
 hom_1844_9 mistake%1:04:00:: umpire%2:33:00::
-hom_1848_13 word_picture%1:10:00:: die%2:30:02::
+hom_1848_13 word_picture%1:10:00:: lensman%1:18:00::
 hom_1849_7 waste%2:40:00:: blow%2:30:07::
 hom_1851_9 die%2:30:00:: die%2:30:02::
 hom_1852_9 snapshot%1:06:00:: show%2:36:00::
@@ -1055,7 +1055,7 @@ hom_1892_8 core%1:14:00:: physicist%1:18:00::
 hom_1894_17 electric_shock%1:04:00:: wire%2:30:00::
 hom_1903_9 loop_topology%1:09:00:: always%4:02:01::
 hom_1905_14 conviction%1:04:00:: sentence%1:04:00::
-hom_1906_8 stagger%2:38:00:: die%2:30:02::
+hom_1906_8 stagger%2:38:00:: never%4:02:01::
 hom_1907_14 travel%2:38:00:: steward%1:18:02::
 hom_1913_13 form%1:10:01:: form%2:30:05::
 hom_1915_6 grow%2:30:00:: industry%1:07:00::
@@ -1098,7 +1098,7 @@ hom_1971_9 wrap%1:13:00:: inclement%3:00:01::
 hom_1972_13 point%1:07:02:: sharpener%1:06:00::
 hom_1976_14 litter%2:29:00:: pup%1:18:00::
 hom_1977_10 exhaust%2:29:00:: emission%1:11:00::
-hom_1979_8 pas%1:04:00:: away%4:02:02::
+hom_1979_8 pas%1:04:00:: die%2:30:02::
 hom_1980_8 attractive%3:00:02:: attractive%3:00:02::
 hom_1982_12 prime%1:23:00:: idealogue%1:18:00::
 hom_1983_14 under%5:00:00:subordinate:01 important%5:00:00:immodest:02
@@ -1120,7 +1120,7 @@ hom_2010_11 stir%2:38:00:: operator%1:18:03::
 hom_2011_15 nail%1:06:00:: hammer%2:36:00::
 hom_2015_8 sound%1:09:00:: practice%2:41:03::
 hom_2016_10 batch%1:23:00:: candy%2:39:00::
-hom_2017_11 cabinet%1:06:01:: die%2:30:02::
+hom_2017_11 cabinet%1:06:01:: never%4:02:01::
 hom_2018_16 scat%2:38:00:: motor_home%1:06:00::
 hom_2019_13 shot%1:04:04:: hunt%2:33:02::
 hom_2021_3 electrify%2:30:00:: wire%2:30:00::
@@ -1181,7 +1181,7 @@ hom_2116_19 jog%2:32:00:: memory%1:09:03::
 hom_2117_7 hang%2:30:00:: clarence_shepard_day_jr.%1:18:00::
 hom_2119_7 turn%1:04:06:: herbert_alexander_simon%1:18:00::
 hom_2120_18 variety%1:07:01:: change%2:30:06::
-hom_2122_7 see%2:31:03:: die%2:30:02::
+hom_2122_7 see%2:31:03:: cashier%2:41:00::
 hom_2124_13 spirit%1:26:00:: half-dozen%5:00:00:cardinal:00
 hom_2125_13 trap%2:35:02:: skittle_alley%1:06:00::
 hom_2126_13 scale%2:30:01:: tournament%1:11:01::
@@ -1199,7 +1199,7 @@ hom_2143_1 home%4:02:01:: melioration%1:26:00::
 hom_2144_8 load%2:35:02:: die%2:30:02::
 hom_2150_1 nibble%2:34:01:: quaker%1:18:00::
 hom_2152_11 trickle%2:38:00:: player%1:18:03::
-hom_2155_10 course%1:04:01:: die%2:30:02::
+hom_2155_10 course%1:04:01:: separate%2:31:00::
 hom_2157_6 see%2:39:11:: eyeball%2:39:00::
 hom_2158_11 degree%1:23:03:: resolved%3:00:04::
 hom_2159_19 pick%2:31:00:: medicine%1:04:02::
@@ -1209,7 +1209,7 @@ hom_2165_11 shove_off%2:38:00:: break_down%2:30:00::
 hom_2166_9 cement%1:27:00:: formula%1:09:01::
 hom_2169_14 fast%2:34:00:: thirsty%5:00:00:desirous:00
 hom_2170_11 rock_candy%1:13:02:: sway%2:38:06::
-hom_2173_12 goal%1:06:00:: last%5:00:00:unalterable:00
+hom_2173_12 goal%1:06:00:: player%1:18:03::
 hom_2175_11 wavelength%1:07:00:: artificer%1:18:01::
 hom_2176_10 stimulate%2:29:00:: visit%2:30:00::
 hom_2179_10 screw%1:06:01:: jockey%2:33:01::

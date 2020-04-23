@@ -230,9 +230,9 @@ het_399_4 peddle%2:40:00:: wheel%2:38:06::
 het_400_17 gecko%1:05:00:: album%1:06:00::
 het_405_8 wade%2:38:00:: away%4:02:02::
 het_406_19 wistfully%4:02:00:: name%2:31:00::
-het_408_10 basel%1:15:00:: die%2:30:02::
+het_408_10 basel%1:15:00:: picker%1:18:00::
 het_409_11 stalin%1:18:00:: recover%2:35:00::
-het_410_16 slowly%4:02:02:: like%5:00:00:same:00
+het_410_16 slowly%4:02:02:: fruit%2:36:00::
 het_411_15 stationery%1:10:00:: gasbag%1:06:00::
 het_415_13 impertinently%4:02:00:: upside%1:15:00::
 het_416_4 seemliness%1:07:00:: beautify%2:42:00::
@@ -254,7 +254,7 @@ het_442_12 principal%1:18:00:: disliked%3:00:00::
 het_444_6 disney%1:18:00:: spell%2:30:00::
 het_445_11 unsheathed%3:00:00:: organic%5:00:00:essential:00
 het_446_28 bullion%1:06:00:: bullion%1:06:00::
-het_450_11 monotonously%4:02:00:: said%5:00:00:same:02
+het_450_11 monotonously%4:02:00:: monotonously%4:02:00::
 het_451_15 gait%1:04:02:: betimes%4:02:00::
 het_453_10 rune%1:10:00:: lead%2:32:01::
 het_454_16 dumbly%4:02:01:: electron_lens%1:06:00::
@@ -279,7 +279,7 @@ het_486_15 mussel%1:05:00:: buff%2:35:02::
 het_488_15 torsion%1:19:00:: tractor%1:06:01::
 het_489_21 corporation%1:14:00:: rotten%5:00:00:stale:00
 het_491_5 cantankerous%5:00:00:ill-natured:00 ornery%5:00:00:ill-natured:00
-het_492_8 grossly%4:02:00:: grossly%4:02:00::
+het_492_8 grossly%4:02:00:: tom_turkey%1:05:00::
 het_493_13 decameter%1:23:00:: flick%1:10:00::
 het_494_7 clause%1:10:00:: suspiciousness%1:07:00::
 het_496_5 magic_trick%1:04:00:: grandeur%1:07:02::
@@ -323,7 +323,7 @@ het_549_7 consonant%1:10:00:: struggle%2:33:00::
 het_550_7 margarine%1:13:00:: mistake%1:10:00::
 het_552_11 sieve%1:06:00:: screen%2:33:00::
 het_553_10 zinc%2:35:00:: zinc%2:35:00::
-het_554_10 bamboozle%2:32:00:: bad%4:02:03::
+het_554_10 bamboozle%2:32:00:: building%1:04:01::
 het_555_7 upset%1:04:01:: flower_store%1:06:00::
 het_556_18 plane%2:35:03:: fancy%3:00:00::
 het_559_13 consomme%1:13:00:: professional%5:00:00:white-collar:00
@@ -370,7 +370,7 @@ het_628_19 offal%1:13:00:: implant%2:31:00::
 het_629_7 alloy%2:30:02:: unified%5:00:00:united:00
 het_630_10 liaison%1:10:00:: introduce%2:30:00::
 het_631_12 sporadically%4:02:00:: go_far%2:41:00::
-het_633_9 wisely%4:02:00:: said%5:00:00:same:02
+het_633_9 wisely%4:02:00:: sagely%4:02:00::
 het_634_4 son%1:18:01:: burning%5:00:00:important:00
 het_635_12 solution%1:14:00:: root%2:30:01::
 het_636_8 wave%2:29:00:: wave%2:29:00::
@@ -381,7 +381,7 @@ het_644_23 weight_unit%1:23:00:: worried%5:00:00:uneasy:00
 het_645_11 brook%1:17:00:: creek%1:18:00::
 het_646_8 dragon%1:05:02:: taradiddle%1:10:00::
 het_647_12 feudal%3:01:00:: feudalistic%3:01:00::
-het_649_8 wanly%4:02:00:: wanly%4:02:00::
+het_649_8 wanly%4:02:00:: tom_turkey%1:05:00::
 het_651_19 nicely%4:02:00:: jacques_anatole_francois_thibault%1:18:00::
 het_652_18 succor%2:41:00:: journey%2:38:01::
 het_653_17 dandy%1:18:00:: satin%1:06:00::
@@ -403,7 +403,7 @@ het_675_14 samurai%1:14:00:: article%2:32:00::
 het_676_14 stationery%1:10:00:: store%2:40:02::
 het_678_22 crutch%1:04:00:: date%2:31:01::
 het_681_16 deer%1:05:00:: doe%1:05:00::
-het_683_11 wantonly%4:02:01:: intellectual_nourishment%1:09:00::
+het_683_11 wantonly%4:02:01:: formosan%3:01:00::
 het_684_20 burrow%2:38:00:: tarzan_of_the_apes%1:18:00::
 het_685_16 leek%1:13:00:: damaged%5:00:00:disreputable:00
 het_686_8 rate%2:31:00:: away%4:02:02::
@@ -452,7 +452,7 @@ het_757_16 cuttingly%4:02:00:: cuttingly%4:02:00::
 het_758_15 musical_composition%1:10:00:: agitate%2:41:10::
 het_759_12 incremental%5:00:00:additive:00 latterly%4:02:00::
 het_760_10 seed%2:30:02:: seed%2:30:01::
-het_761_15 rotation%1:11:00:: break_down%2:30:00::
+het_761_15 rotation%1:11:00:: revolve%2:38:01::
 het_762_2 ritual%1:04:00:: concerned%5:00:01:involved:00
 het_763_3 wet%2:29:00:: wet%5:00:00:intoxicated:00
 het_764_11 remora%1:05:00:: shark%2:33:00::
@@ -475,7 +475,7 @@ het_794_11 cryptically%4:02:00:: tomb%1:06:00::
 het_795_21 summarize%2:42:00:: short%2:36:00::
 het_798_17 greasy%5:00:00:dirty:01 bring_forth%2:29:00::
 het_799_15 chablis%1:13:00:: picker%1:18:00::
-het_802_12 hosta%1:20:00:: surround%1:15:00::
+het_802_12 hosta%1:20:00:: glasshouse%1:06:00::
 het_803_13 wicket%1:06:02:: broom%2:35:01::
 het_805_11 metrical_foot%1:10:00:: fit%3:00:01::
 het_806_15 boringly%4:02:00:: embrocate%2:29:00::
@@ -589,7 +589,7 @@ het_995_4 pharaoh%1:18:00:: unrivalled%5:00:00:incomparable:00
 het_997_10 phlegmatically%4:02:00:: throat%1:05:00::
 het_998_11 barn%1:23:00:: stable%2:41:00::
 het_1001_17 punishment%1:04:00:: penalisation%1:04:00::
-het_1002_14 weakly%4:02:01:: parent%2:41:00::
+het_1002_14 weakly%4:02:01:: william_ashley_sunday%1:18:00::
 het_1004_7 porpoise%1:05:00:: life_scientist%1:18:00::
 het_1005_19 ladle%2:35:01:: serve%2:33:01::
 het_1006_13 relatively%4:02:00:: along%4:02:04::
@@ -673,13 +673,13 @@ het_1128_10 brake%2:38:00:: stopped_up%5:00:00:obstructed:00
 het_1129_5 stanza%1:10:00:: stanza%1:10:00::
 het_1130_11 finn%1:18:00:: finn%1:18:00::
 het_1132_8 spread%1:13:00:: glue%2:30:00::
-het_1133_19 gesture%1:10:00:: fool%2:32:00::
+het_1133_19 gesture%1:10:00:: shrug%2:29:00::
 het_1134_15 suede_cloth%1:06:00:: shoe%2:29:00::
 het_1137_8 abominable_snowman%1:18:00:: snowman%1:06:00::
 het_1140_15 match%2:42:00:: cake%2:35:01::
 het_1141_22 sine%1:24:00:: prof%1:18:00::
 het_1142_14 organically%4:02:02:: reed_organ%1:06:00::
-het_1143_13 flea%1:05:00:: store%2:40:02::
+het_1143_13 flea%1:05:00:: flea%1:05:00::
 het_1144_19 jester%1:18:00:: door%1:06:03::
 het_1148_14 sole%2:30:00:: scorned%5:00:00:unloved:00
 het_1150_7 mail%1:14:00:: profession%1:10:01::
@@ -737,7 +737,7 @@ het_1243_5 cellular_telephone%1:06:00:: honey%5:00:00:chromatic:00
 het_1244_15 father%1:18:01:: turdus_migratorius%1:05:00::
 het_1248_16 due%5:00:00:expected:00 thoughtfulness%1:04:00::
 het_1249_11 algorithm%1:09:00:: teacher%1:09:00::
-het_1250_12 badly%4:02:05:: tom_turkey%1:05:00::
+het_1250_12 badly%4:02:05:: naughtily%4:02:00::
 het_1251_12 sequin%1:06:00:: imitator%1:18:01::
 het_1254_31 splice%1:06:01:: parlour%1:06:01::
 het_1255_17 boar%1:05:01:: order%2:31:01::
@@ -746,11 +746,11 @@ het_1261_17 vein%2:36:00:: save%2:32:04::
 het_1262_5 caret%1:10:00:: caret%1:10:00::
 het_1264_3 cosign%2:32:00:: emplacement%1:04:00::
 het_1265_13 lama%1:05:00:: one_c%1:23:00::
-het_1266_10 suite%1:14:01:: suite%1:14:01::
+het_1266_10 suite%1:14:01:: home%4:02:03::
 het_1268_5 sin%1:04:01:: blaze%1:04:00::
 het_1269_8 myth%1:10:00:: teller%1:18:03::
 het_1271_11 brake%2:38:00:: news%1:07:00::
-het_1273_8 czechoslovakian%1:18:00:: die%2:30:02::
+het_1273_8 czechoslovakian%1:18:00:: slav%1:18:00::
 het_1275_10 rumor%2:32:00:: bruit%2:32:00::
 het_1276_15 verse%2:32:00:: verse%2:32:00::
 het_1282_11 wry%5:00:00:crooked:01 smoke-dried%5:00:00:preserved:02
@@ -777,7 +777,7 @@ het_1317_24 directorate_for_inter-services_intelligence%1:14:00:: picture_palace
 het_1319_10 quickly%4:02:00:: raft%2:36:00::
 het_1322_11 meaty%3:00:00:: shower%2:34:12::
 het_1327_15 offensively%4:02:00:: good%1:06:00::
-het_1328_14 mutter%1:11:00:: tom_turkey%1:05:00::
+het_1328_14 mutter%1:11:00:: gnarl%2:32:00::
 het_1329_8 pique%2:37:00:: pup%1:18:00::
 het_1330_2 successor%1:18:00:: human%3:00:00::
 het_1331_16 berth%1:06:00:: wharf%2:35:03::
@@ -809,7 +809,7 @@ het_1380_7 reign%2:41:00:: incessantly%4:02:00::
 het_1381_15 touch%1:10:01:: must%5:00:00:essential:00
 het_1382_12 billiards%1:04:00:: billiards%1:04:00::
 het_1384_18 peddle%2:40:00:: pitch%2:40:00::
-het_1385_12 caustically%4:02:00:: vitriolically%4:02:00::
+het_1385_12 caustically%4:02:00:: ask%2:32:09::
 het_1386_5 party_boss%1:18:00:: stamp%2:35:03::
 het_1387_16 herb%1:13:00:: tomorrow%4:02:00::
 het_1388_8 braid%2:35:00:: away%4:02:02::
@@ -818,7 +818,7 @@ het_1390_18 aria%1:10:00:: conductor%1:06:00::
 het_1391_5 plunge%2:30:10:: like%5:00:00:same:00
 het_1392_11 cord%1:23:00:: wood%1:06:02::
 het_1393_14 verse%2:36:00:: verse%2:32:00::
-het_1394_8 waist%1:08:00:: die%2:30:02::
+het_1394_8 waist%1:08:00:: nutritionist%1:18:00::
 het_1395_11 flower%1:28:00:: ribbon%1:06:00::
 het_1396_8 coroner%1:18:00:: varicoloured%5:00:00:colored:00
 het_1399_12 profess%2:32:00:: professed%5:00:00:declared:00
@@ -829,7 +829,7 @@ het_1406_20 tax%2:32:00:: ring%2:32:00::
 het_1412_8 margarine%1:13:00:: show%2:33:00::
 het_1414_18 flue%1:06:00:: stuck%5:00:00:perplexed:00
 het_1416_11 jean%1:06:03:: robe%2:35:00::
-het_1418_76 marquis%1:18:00:: well-lighted%5:00:00:light:06
+het_1418_76 marquis%1:18:00:: nobleman%1:18:00::
 het_1419_7 poultry%1:13:00:: motion%2:32:00::
 het_1420_11 willfully%4:02:00:: portion%1:26:00::
 het_1421_18 turf%2:35:00:: decision%1:07:00::
@@ -861,7 +861,7 @@ het_1457_27 yield%1:06:00:: cruise%2:38:01::
 het_1458_7 figuratively%4:02:00:: revel%2:34:00::
 het_1459_8 golf%2:33:00:: smooth-spoken%5:00:00:articulate:00
 het_1461_18 evenly%4:02:00:: earth%2:35:00::
-het_1463_10 eight%5:00:00:cardinal:00 afraid%5:00:00:disinclined:00
+het_1463_10 eight%5:00:00:cardinal:00 vii%5:00:00:cardinal:00
 het_1466_16 rabbit%1:05:00:: transit%2:38:01::
 het_1467_10 tidal_bore%1:11:00:: bon_ton%1:14:00::
 het_1468_10 cranky%5:00:00:ill-natured:00 groin%2:36:00::
@@ -898,7 +898,7 @@ het_1512_15 wick%1:06:00:: hold_out%2:42:00::
 het_1514_17 kurd%1:18:00:: refuse%2:41:00::
 het_1515_22 constellation%1:17:00:: extragalactic_nebula%1:14:00::
 het_1518_12 scent%2:39:01:: byplay%1:04:00::
-het_1519_8 weak%5:00:00:stupid:00 weak%5:00:00:stupid:00
+het_1519_8 weak%5:00:00:stupid:00 pun%2:36:00::
 het_1525_3 scratch%2:35:04:: inscribed%5:00:00:carved:00
 het_1526_13 loam%1:27:00:: ranger%1:18:02::
 het_1527_16 haltingly%4:02:00:: haltingly%4:02:00::
@@ -962,7 +962,7 @@ het_1633_5 throne%1:04:00:: lead%2:32:01::
 het_1634_20 galleon%1:06:00:: efficient%5:00:00:competent:00
 het_1635_34 pane%1:06:00:: whacky%5:00:00:insane:00
 het_1636_14 dolefully%4:02:00:: security_measures%1:04:00::
-het_1637_8 pea%1:20:00:: johann_mendel%1:18:00::
+het_1637_8 pea%1:20:00:: pea_plant%1:20:00::
 het_1638_8 pea%1:20:00:: all_over%4:02:00::
 het_1639_11 dinghy%1:06:00:: rowboat%1:06:00::
 het_1640_12 write%2:36:10:: write%2:36:10::
@@ -1041,7 +1041,7 @@ het_1767_18 colonel%1:18:00:: unwisely%4:02:00::
 het_1768_7 thyme%1:13:00:: thyme%1:13:00::
 het_1769_8 relatively%4:02:00:: comparatively%4:02:00::
 het_1771_12 sigh%1:11:00:: relief%1:04:04::
-het_1772_1 badly%4:02:05:: tom_turkey%1:05:00::
+het_1772_1 badly%4:02:05:: nothing%4:02:00::
 het_1773_17 sore%1:26:00:: sore%1:26:00::
 het_1774_16 queue%1:08:00:: hall%1:06:01::
 het_1778_15 fecal_matter%1:27:00:: dejection%1:27:00::
