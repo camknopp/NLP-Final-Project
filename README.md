@@ -7,7 +7,7 @@ The three subtasks which this system provides a solution for are:
 # Subtask 1: Pun detection.
 For this subtask, participants are given an entire raw data set. For each context, the system must decide whether or not it contains a pun.
 
-# What we did to accomplish this subtask
+# What we did for this subtask
 - Create word_pairs for sentences in given file
 - Calculate pmi scores for all given word_pairs
 - Calculate the interquartile range for the pmi scores of word_pairs in each sentence
@@ -16,24 +16,30 @@ For this subtask, participants are given an entire raw data set. For each contex
 
 
 # Subtask 2: Pun location.
-For this subtask, the contexts not containing puns are removed from the data set. For each context, the system must identify which word is the pun.
+For this subtask, the contexts not containing puns are removed from the data set. For each context, the system must identify the pun word.
 
-# What we did to accomplish this subtask
+
+# What we did for this subtask
 - Generate pmi scores for the given sentence
 - The second word in the word pair with the highest pmi score in a given sentence is the pun word
+
 
 # Subtask 3: Pun interpretation.
 For this subtask, the pun word in each context is marked, and contexts where the pun's two meanings are not found in WordNet are removed from the data set. For each context, the system must annotate the two meanings of the given pun by reference to WordNet sense keys.
 
-# What we did to accomplish this subtask
+# What we did for this subtask
 - First sense of the pun is found using pywsd algorithm
 - To find the second sense of the pun, gather all the wordnet synonyms of the pun
 - Next, get the other word in the highest pmi score word pair which the pun belongs to. We'll call this the target word.
 - Use the pymagnitude word2vec to find the cosine similarity between each of the synonyms and the target word.
 - The synonym with the highest cosine similarity to the target word is the second sense of the pun word.
 
-# Scoring
-Details on how to run the scorer can be found in the README.md file found within the datasets folder in this repository.
+
+# Where to find our system's output from the subtasks
+The output of our system for the 3 subtasks can be found in the "system_output" folder. 
+
+# Scorer results and running the scorer
+The results of running the scorer for our system on each of the 3 subtasks can be found within the "system_results" folder. Details on how to run the scorer are found in the README.md file within the "datasets" folder.
 
 # References
 Miller, T., Hempelmann, C., & Gurevych, I. (2017). SemEval-2017 Task 7: Detection and Interpretation of English Puns. Proceedings of the 11th International Workshop on Semantic Evaluation. doi: 10.18653/v1/s17-2005
