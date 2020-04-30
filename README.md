@@ -1,13 +1,12 @@
 # N-Hance System Recreation for SemEval 2017 Task #7
 Created by Cameron Knopp & Jorge Mazariegos
 
-This is a recreation of the N-Hance pun detection system, which was created to solve task 7 of Semeval-2017. The ultimate goal of this system is Word Sense Disambiguation (WSD) of a pun word given its context.
-
-The three subtasks which this system provides a solution for are:
-
-# Datasets Required:
+This is a recreation of the N-Hance pun detection system, which was created to solve task 7 of Semeval-2017. The ultimate goal of this system is Word Sense Disambiguation (WSD) of a pun word given its context. You must download the following dataset in order to be run this project:
   - wiki-news-300d-1M.magnitude
     Found here: http://magnitude.plasticity.ai/word2vec/medium/GoogleNews-vectors-negative300.magnitude 
+    
+    
+This system provides solutions to three subtasks:
 
 # Subtask 1: Pun detection.
 For this subtask, participants are given an entire raw data set. For each context, the system must decide whether or not it contains a pun.
