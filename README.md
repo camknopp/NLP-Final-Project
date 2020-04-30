@@ -4,6 +4,10 @@ This is a recreation of the N-Hance pun detection system, which was created to s
 
 The three subtasks which this system provides a solution for are:
 
+# Datasets Required:
+  - wiki-news-300d-1M.magnitude
+    Found here: http://magnitude.plasticity.ai/word2vec/medium/GoogleNews-vectors-negative300.magnitude 
+
 # Subtask 1: Pun detection.
 For this subtask, participants are given an entire raw data set. For each context, the system must decide whether or not it contains a pun.
 
