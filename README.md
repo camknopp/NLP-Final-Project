@@ -1,4 +1,5 @@
-# NLP-Final-Project
+# N-Hance System Recreation for SemEval 2017 Task #7
+Created by Cameron Knopp & Jorge Mazariegos
 
 This is a recreation of the N-Hance pun detection system, which was created to solve task 7 of Semeval-2017. The ultimate goal of this system is Word Sense Disambiguation (WSD) of a pun word given its context.
 
